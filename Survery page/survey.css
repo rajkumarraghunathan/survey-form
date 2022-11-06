@@ -1,0 +1,36 @@
+:root{
+    --primary-ff: "Poppins", sans-serif;
+    --logo-yellow: #f7df1e;
+    --primary-bg: #d4d6d6;
+}
+body{
+    font-style: var(--primary-ff);
+}
+span{
+    color: red;
+}
+.lastname{
+    margin-left: 22.5rem;
+}
+.width{
+   width: 60%;
+}
+.checked {
+    width: 1.5rem;
+    color: orange;
+  }
+  .gap{
+    display: flex;
+    gap: 9rem;
+    margin-left: 13rem;   
+       
+  }
+ li{
+    list-style: none;
+ }
+ .btn-color{
+    border: transparent !important;  
+    background-color: lightgray;
+    padding: 1rem 0.7rem 1rem 0.7rem !important;
+ }
+ 
